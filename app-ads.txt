@@ -1,8 +1,5 @@
-# All Exam Result (Google play)
-chartboost.com, 5ba73fb003eb2b0c2aee97da, DIRECT
+# Chartboost
+chartboost.com, 5b44acc41715350d7a751441, DIRECT
 
 # All Exam Result Meta Audience Network (Facebook)
 facebook.com, 191718501620944, DIRECT
-
-# Draw in One Touch (Google Play)
-chartboost.com, 5b44ad88ecfb670c8149d88d, DIRECT
